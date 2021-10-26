@@ -59,7 +59,7 @@ public class PollFragment extends Fragment {
 
                 Toast.makeText(v.getContext(), "Currently We are working on this", Toast.LENGTH_SHORT).show();
 //                if(layout.getChildCount() == 2){
-//                    textView.setHint("New Option");
+//                    textView.setHint("New Optio");
 //                    textView.setBackground(getResources().getDrawable(R.drawable.text_bg_shape));
 //                    LinearLayout.LayoutParams layoutParams = new LinearLayout.LayoutParams(LinearLayout.LayoutParams.MATCH_PARENT,LinearLayout.LayoutParams.WRAP_CONTENT);
 //                    layoutParams.setMargins(0,30,0,0);
